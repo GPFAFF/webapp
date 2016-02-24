@@ -1,13 +1,7 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: gray;
-}
+  margin: 0;
+  background-color: #bada55; }
 
-a {
-  color: #00B7FF;
-}
-
-pre{
-	width: 80%;
-}
+h1, p {
+  font-size: 28px;
+  text-align: center; }
